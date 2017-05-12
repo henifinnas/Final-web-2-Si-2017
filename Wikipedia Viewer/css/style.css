@@ -1,0 +1,23 @@
+.block{
+  background-color: black;
+  opacity: .9;
+  color: green;
+  padding: 40px;
+  width: 40;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:15px;
+  font-size:1.5cm;
+  padding-bottom: 2%;
+}
+
+.spacer{
+  padding: 4%;
+}
+
+body {
+  background: url ('https://en.wikipedia.org/wiki/Vickie_M._Moseleyno') no-repeat center center fixed;
+  -webkit-backgrond-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
